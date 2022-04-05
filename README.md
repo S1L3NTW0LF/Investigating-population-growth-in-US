@@ -1,7 +1,6 @@
 # READ ME
 
-Is a Udacity Project. 
-- Datasets were provided to be chosen from. 
+Is a Udacity Project. (Datasets were provided to be chosen from.) 
 
 The project does a simple analysis on three different factors that could affect population growth. Those three factors are the population of the state, the percent of foreign born individuals, and the median household income. The data is from the 2016 US Census. 
 
