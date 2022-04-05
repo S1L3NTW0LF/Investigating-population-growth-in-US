@@ -1,4 +1,4 @@
-# READ ME
+# Investigating-population-growth-in-US
 
 Is a Udacity Project. (Datasets were provided to be chosen from.) 
 
